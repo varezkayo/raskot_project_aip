@@ -1,4 +1,4 @@
-# expenses-conversion-bot
+# Raskot-bot
 This bot have his own database on redis with permanent state storage. 
 And it has all files to deploy it on Heroku. 
 Messages in the bot on russian language, but i shure you can google translate it. 
