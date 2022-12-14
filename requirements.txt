@@ -1,0 +1,5 @@
+pyTelegramBotAPI==3.6.7
+requests==2.23.0
+redis
+isort
+black
